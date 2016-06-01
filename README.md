@@ -9,7 +9,7 @@ Item Pickup Glow
 ![Alt text](https://raw.githubusercontent.com/carlso70/FPS-Prototypes/master/ScreenShot00012.png "Glow Example")
 ![Alt text](https://raw.githubusercontent.com/carlso70/FPS-Prototypes/master/ScreenShot00011.png "")
 
-Rotating Text  
+Rotating Text. Rotates to always face the player
 ![Alt text](https://raw.githubusercontent.com/carlso70/FPS-Prototypes/master/ScreenShot00013.png "")
 ![Alt text](https://raw.githubusercontent.com/carlso70/FPS-Prototypes/master/ScreenShot00014.png "")
 ![Alt text](https://raw.githubusercontent.com/carlso70/FPS-Prototypes/master/ScreenShot00015.png "")
