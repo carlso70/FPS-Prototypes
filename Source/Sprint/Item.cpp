@@ -61,10 +61,17 @@ void AItem::TriggerEnter(class AActor* OtherActor, class UPrimitiveComponent* Ot
 {
 	bItemIsWithinRange = true;
 	GEngine->AddOnScreenDebugMessage(1, 5.f, FColor::Green, FString::Printf(TEXT("Press E to pickup %s"), *ItemName));
+	ToggleGlow(true);
 	GetPlayer(OtherActor);
 }
 
 void AItem::TriggerExit(class AActor* OtherActor, class UPrimitiveComponent* OtherComp, int32 OtherBodyIndex)
 {
+	ToggleGlow(false);
 	bItemIsWithinRange = false;
+}
+
+void AItem::ToggleGlow(bool IsGlowing)
+{
+	SM_TBox->SetRenderCustomDepth(IsGlowing);
 }
