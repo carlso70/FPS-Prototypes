@@ -5,5 +5,5 @@ Quick Demo below
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/bsrjvYlIGdE&feature/0.jpg)](http://www.youtube.com/watch?v=bsrjvYlIGdE&feature "Video Title")
 
-<img src="ScreenShot00011">
-<img src ="ScreenShot00012">
+![Alt text](https://raw.githubusercontent.com/carlso70/FPS-Prototypes/master/ScreenShot00012.png "Glow Example")
+![Alt text](https://raw.githubusercontent.com/carlso70/FPS-Prototypes/master/ScreenShot00011.png "")
