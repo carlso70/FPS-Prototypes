@@ -3,7 +3,7 @@ Creating prototypes for sprinting, inventory items, stamina, explosions, customs
 
 Quick Demo video below (from v.1)
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/bsrjvYlIGdE&feature/0.jpg)](http://www.youtube.com/watch?v=bsrjvYlIGdE&feature "Video Title")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/bsrjvYlIGdE/0.jpg)](http://www.youtube.com/watch?v=bsrjvYlIGdE "Video Title")
 
 Item Pickup Glow
 ![Alt text](https://raw.githubusercontent.com/carlso70/FPS-Prototypes/master/ScreenShot00012.png "Glow Example")
